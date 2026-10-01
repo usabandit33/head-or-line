@@ -13,4 +13,5 @@ Phones copied from each shop's own public website on 2026-09-30. Do not invent n
 | Mr Sprinkler Repair Austin | 512-377-1222 | mrsprinklerrepairaustin.com | not found this run |
 | Diamond Irrigation & Backflow | 512-560-5338 | diamondirrigationandbackflow.com | form only this run |
 
-Outreach-ready (phone + inbox on own site): All American, 7 Kings, Austin Irrigation Specialists, South Austin Irrigation. Hunt a fifth inbox after Pages is 200.
+**T1 ×4 sent 2026-10-01** (Pages 200): All American, 7 Kings, Austin Irrigation Specialists, South Austin Irrigation.
+Phone-only holds: Grass Works, Texas Rain, Mr Sprinkler, Diamond.
