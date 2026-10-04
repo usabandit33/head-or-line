@@ -12,5 +12,6 @@ From kaelnventures@gmail.com, signature Matt M. Phone + domain in every email. N
   - 7 Kings Landscaping (512-696-9087 / 7kingslandscaping.com → admin@7kingslandscaping.com)
   - Austin Irrigation Specialists (512-966-1052 / irrigateaustin.com → kristin@irrigateaustin.com)
   - South Austin Irrigation (512-534-7449 / southaustinirrigation.com → matt@southaustinirrigation.com)
-- T2 due ~2026-10-04/05
+- **2026-10-04:** Pages **200** — T2 ×4 sent (day 3). Same four inboxes. No reply or bounce on T1.
+- T3 due ~2026-10-08/11
 - Phone-only holds (no own-site inbox this run): Grass Works, Texas Rain, Mr Sprinkler, Diamond
