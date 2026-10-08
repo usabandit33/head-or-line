@@ -11,5 +11,9 @@
 | 2026-10-04 | T2 | 7 Kings Landscaping | sent to admin@7kingslandscaping.com |
 | 2026-10-04 | T2 | Austin Irrigation Specialists | sent to kristin@irrigateaustin.com |
 | 2026-10-04 | T2 | South Austin Irrigation | sent to matt@southaustinirrigation.com |
+| 2026-10-08 | T3 | All American Irrigation Systems | sent to office@sanantoniosprinklers.com |
+| 2026-10-08 | T3 | 7 Kings Landscaping | sent to admin@7kingslandscaping.com |
+| 2026-10-08 | T3 | Austin Irrigation Specialists | sent to kristin@irrigateaustin.com |
+| 2026-10-08 | T3 | South Austin Irrigation | sent to matt@southaustinirrigation.com |
 
-Sent **8** / bounced 0 / replied 0 / remove 0
+Sent **12** / bounced 0 / replied 0 / remove 0
